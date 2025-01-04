@@ -45,11 +45,11 @@ Bachelor of Marketing and Finance (GPA: 3.86/4.0) | Sep 2019 – Jun 2023
 ### **[Classification Model](https://github.com/hassan1030/Data-Mining-with-SVM)** 
 - Built a non-linear classification model using SVM with an RBF kernel in R, achieving 88.4% accuracy in classifying pumpkin seed varieties.  
 
-### **[Image Classification](https://github.com/hassan1030/Image-Classification)** 
-- Developed a PyTorch-based transfer learning model using ResNet-18, achieving 79.4% accuracy in classifying cats and dogs.  
+### **[Retail Sales Analysis](https://github.com/hassan1030/Retail-Sales_Analysis)** 
+- Built a Power BI dashboard analyzing sales of £99,237 across multiple channels, highlighting 41% attrition in Technology and identifying high-margin product categories like Hoodies & Sweatshirts (54% margin) to optimize profitability and marketing strategies.  
 
-### **[Text Sentiment Classification](https://github.com/hassan1030/Text-Classification)**  
-- Compared Naive Bayes and ULMFiT models for Twitter sentiment analysis, achieving 79.4% accuracy with a deep learning approach.
+### **[HR Analytics Dashboard](https://github.com/hassan1030/HR-Analytics-in-PowerBi)**  
+- Designed a Power BI dashboard to monitor 1,470 employees with a 16.1% attrition rate, uncovering key attrition drivers such as 40% turnover in Technology roles and dissatisfaction with work-life balance, leading to targeted retention strategies.
 
 ---
 
