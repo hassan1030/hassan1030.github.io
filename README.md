@@ -14,7 +14,7 @@ Bachelor of Marketing and Finance (GPA: 3.86/4.0) | Sep 2019 – Jun 2023
 ---
 
 ## **Industry Certifications**
-- **Microsoft Power BI Data Analyst: PL-300**  
+- **Microsoft Power BI Data Analyst: PL-300 (Ongoing)**  
 
 ---
 
