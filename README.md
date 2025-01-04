@@ -1,6 +1,6 @@
 # **Muhammad Hassan Zahoor**
 
-<img src="assets/ProfilePicture.jpg" alt="Profile Picture" width="150" align="left" style="border-radius: 50%; margin-right: 15px;">
+<img src="(https://github.com/hassan1030/hassan1030.github.io/blob/main/assets/Profile%20Picture.jpg)" alt="Profile Picture" width="150" align="left" style="border-radius: 50%; margin-right: 15px;">
 
 [View My GitHub Profile](https://github.com/hassan1030)
 
