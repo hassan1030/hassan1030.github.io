@@ -1,8 +1,5 @@
-# [Your Name] - Data Analytics Portfolio
+# Data Analytics Portfolio
 <img src="assets/Profile%20Picture.jpg" alt="Profile Picture" width="150" style="float: left; margin-right: 15px; border-radius: 50%;">
-
-# Muhammad Hassan Zahoor
-[View My GitHub Profile](https://github.com/hassan1030)
 
 ---
 
