@@ -1,4 +1,5 @@
 # [Your Name] - Data Analytics Portfolio
+![Profile Picture](assets/Profile%20Picture.jpg)
 
 ## **Education**
 **Northeastern University**  
@@ -40,16 +41,24 @@ Bachelor of Marketing and Finance (GPA: 3.86/4.0) | Sep 2019 – Jun 2023
 
 ## **Projects**
 ### **[Regression Analysis](https://github.com/hassan1030/Correlation-and-Regression-in-R) ** 
-- Performed regression analysis on TTC dataset using R to quantify the impact of incident types on delay durations and classification to predict delays by day and route.  
+- Performed regression analysis on TTC dataset using R to quantify the impact of incident types on delay durations and classification to predict delays by day and route.
+
+  ![TTC Delays](assets/TTC%20Delays.png)
 
 ### **[Classification Model](https://github.com/hassan1030/Data-Mining-with-SVM)** 
-- Built a non-linear classification model using SVM with an RBF kernel in R, achieving 88.4% accuracy in classifying pumpkin seed varieties.  
+- Built a non-linear classification model using SVM with an RBF kernel in R, achieving 88.4% accuracy in classifying pumpkin seed varieties.
+
+   ![Correlation and Regression](assets/Correlation%20and%20Regression.png)
 
 ### **[Retail Sales Analysis](https://github.com/hassan1030/Retail-Sales_Analysis)** 
-- Built a Power BI dashboard analyzing sales of £99,237 across multiple channels, highlighting 41% attrition in Technology and identifying high-margin product categories like Hoodies & Sweatshirts (54% margin) to optimize profitability and marketing strategies.  
+- Built a Power BI dashboard analyzing sales of £99,237 across multiple channels, highlighting 41% attrition in Technology and identifying high-margin product categories like Hoodies & Sweatshirts (54% margin) to optimize profitability and marketing strategies.
+
+  ![Retail Analysis](assets/Retail%20Analysis.png)
 
 ### **[HR Analytics Dashboard](https://github.com/hassan1030/HR-Analytics-in-PowerBi)**  
 - Designed a Power BI dashboard to monitor 1,470 employees with a 16.1% attrition rate, uncovering key attrition drivers such as 40% turnover in Technology roles and dissatisfaction with work-life balance, leading to targeted retention strategies.
+  
+![HR Analytics Dashboard](assets/HR%20Analytics%20Dashboard.png)
 
 ---
 
