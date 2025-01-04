@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-<img src="assets/Profile%20Picture.jpg" alt="Profile Picture" width="150" style="float: left; margin-right: 15px; border-radius: 50%;">
+
 
 ---
 
