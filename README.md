@@ -38,8 +38,8 @@ Bachelor of Marketing and Finance (GPA: 3.86/4.0) | Sep 2019 – Jun 2023
 
 ---
 
-## **Relevant Academic Projects**
-### **Regression Analysis** 
+## **Projects**
+### **[Regression Analysis](https://github.com/hassan1030/Correlation-and-Regression-in-R) ** 
 - Performed regression analysis on TTC dataset using R to quantify the impact of incident types on delay durations and classification to predict delays by day and route.  
 
 ### **Classification Model** 
