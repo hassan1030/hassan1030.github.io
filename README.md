@@ -1,15 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="assets/Profile Picture.jpg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-right: 20px;">
-  <div>
-    <h1>Muhammad Hassan Zahoor</h1>
-    <p>Data Analytics Portfolio</p>
-  </div>
-</div>
-
 # Data Analytics Portfolio
-
-
----
 
 
 ## **Education**
