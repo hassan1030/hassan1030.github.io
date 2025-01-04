@@ -42,13 +42,13 @@ Bachelor of Marketing and Finance (GPA: 3.86/4.0) | Sep 2019 – Jun 2023
 ### **[Regression Analysis](https://github.com/hassan1030/Correlation-and-Regression-in-R) ** 
 - Performed regression analysis on TTC dataset using R to quantify the impact of incident types on delay durations and classification to predict delays by day and route.  
 
-### **Classification Model** 
+### **[Classification Model](https://github.com/hassan1030/Data-Mining-with-SVM)** 
 - Built a non-linear classification model using SVM with an RBF kernel in R, achieving 88.4% accuracy in classifying pumpkin seed varieties.  
 
-### **Image Classification** 
+### **[Image Classification](https://github.com/hassan1030/Image-Classification)** 
 - Developed a PyTorch-based transfer learning model using ResNet-18, achieving 79.4% accuracy in classifying cats and dogs.  
 
-### **Text Sentiment Classification**  
+### **[Text Sentiment Classification](https://github.com/hassan1030/Text-Classification)**  
 - Compared Naive Bayes and ULMFiT models for Twitter sentiment analysis, achieving 79.4% accuracy with a deep learning approach.
 
 ---
